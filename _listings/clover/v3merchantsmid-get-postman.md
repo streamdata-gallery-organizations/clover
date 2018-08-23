@@ -1,0 +1,1 @@
+Error exporting to format Postman20 -> Unable to parse host information from base URL <i><code>http:///merchants/https://api.clover.com</code></i>
